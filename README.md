@@ -1,6 +1,10 @@
-- 👋 oi, eu sou@sasamilgrau
+- 👋 oi, eu sou sabrina
 
-<!---
-sasamilgrau/sasamilgrau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-trabalho com vendas de doces
+-trabalho com entregas
+-temos loja fisica e digital 
+-quem quiser entrar em contato pelo instagram da loja
+-@mundo dos doces
+
+
+
